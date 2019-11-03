@@ -1,3 +1,4 @@
+<p><strong>Note:</strong> This repo was pulled from Andrew Mead's <a href="https://www.youtube.com/watch?v=8t0vNu2fCCM">"The Great Gatsby Bootcamp"</a> on YouTube</p> 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
